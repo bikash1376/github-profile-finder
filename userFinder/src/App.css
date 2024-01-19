@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400;500&display=swap');
+
+.profile-data {
+  display: flex;
+  justify-content: center;
+
+}
+.profile-data p {
+  margin: 20px;
+}
+.profile-data p span{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+.github-btn a {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
